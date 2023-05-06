@@ -1,0 +1,16 @@
+# multi dimensional list
+a=[[[10,20],[30,40]],[[50,60],[70,80]]]
+print(a[0])
+print(a[1])
+print(a[0][0])
+print(a[0][1])
+print(a[1][0])
+print(a[1][1])
+print(a[0][0][0])
+print(a[0][0][1])
+print(a[0][1][0])
+print(a[0][1][1])
+print(a[1][0][0])
+print(a[1][0][1])
+print(a[1][1][0])
+print(a[1][1][1])
